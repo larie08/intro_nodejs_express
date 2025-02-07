@@ -1,1 +1,1 @@
-Activity 3: Introduction to Node.js and Express.js
+Activity 3: Introduction to Node.js and Express.js by Larie Jane Rubi
